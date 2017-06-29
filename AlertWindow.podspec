@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AlertWindow'
-  s.version      = '1.0.0'
+  s.version      = '0.0.1'
   s.platform     = :ios, '8.0'
   s.ios.deployment_target = '8.0'
   s.summary      = 'A library for swift 3.0 to use AlertView and ActionSheet.'
