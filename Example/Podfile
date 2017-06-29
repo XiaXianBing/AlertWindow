@@ -1,0 +1,11 @@
+workspace 'AlertWindowDemo.xcworkspace'
+project 'AlertWindowDemo.xcodeproj'
+
+use_frameworks!
+platform :ios, '8.0'
+
+pod 'AlertWindow',	:path => '../'
+
+target 'AlertWindowDemo' do
+	
+end

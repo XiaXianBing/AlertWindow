@@ -1,0 +1,6 @@
+framework module Pods_AlertWindowDemo {
+  umbrella header "Pods-AlertWindowDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

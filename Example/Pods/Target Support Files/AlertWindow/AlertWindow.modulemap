@@ -1,0 +1,6 @@
+framework module AlertWindow {
+  umbrella header "AlertWindow-umbrella.h"
+
+  export *
+  module * { export * }
+}

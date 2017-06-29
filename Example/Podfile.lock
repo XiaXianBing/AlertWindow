@@ -1,0 +1,16 @@
+PODS:
+  - AlertWindow (1.0.2)
+
+DEPENDENCIES:
+  - AlertWindow (from `../`)
+
+EXTERNAL SOURCES:
+  AlertWindow:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AlertWindow: 924cc223bbcd76099367738b74d933dbf2efca7e
+
+PODFILE CHECKSUM: 2a3fb18076d1e605aca4f16fdec43d2ad21dafcd
+
+COCOAPODS: 1.2.1
